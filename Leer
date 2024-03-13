@@ -1,0 +1,17 @@
+Lenguaje: Swift 
+Temas:
+1. Identificar si un número hexadecimal de 3 o 6 caracteres (formato #fff o #ffffff) 
+exclusivamente (no es un rango y no puede superar ni ser inferior a estos dos 
+números), es un código de color válido. Ejemplo: #4ab, es válido; #acf3ae, es 
+válido; #4512abc, es inválido; #a235, es inválido; #u38, es inválido.
+  Pasos para ejecutar el programa: 
+   1. Descargar el archivo comprimido 
+   2. Abrir la terminal y buscar mediante cd en el directorio el archivo Programa1.swift 
+   3. Ejecutar la sentencia "swift Programa1.swift <"Número hex a comprobar">
+
+2. Filtrar textos que contengan el error de n seguida de b o n seguida de p y 
+reemplazar por m en ambos casos.
+  Pasos para ejecutar el programa: 
+   1. Descargar el archivo comprimido 
+   2. Abrir la terminal y buscar mediante cd en el directorio el archivo Programa1.swift 
+   3. Ejecutar la sentencia "swift Programa2.swift <"Palabra a corregir">
